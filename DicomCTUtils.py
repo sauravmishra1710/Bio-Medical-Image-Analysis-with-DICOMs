@@ -358,7 +358,8 @@ class DcmCTUtils():
             None
             
         Reference: 
-            https://www.kaggle.com/gzuidhof/full-preprocessing-tutorial/notebook#3D-plotting-the-scan
+            [1] https://www.cs.carleton.edu/cs_comps/0405/shape/marching_cubes.html
+            [2] https://www.kaggle.com/gzuidhof/full-preprocessing-tutorial/notebook#3D-plotting-the-scan
 
         """
 
